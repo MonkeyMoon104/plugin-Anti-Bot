@@ -1,0 +1,5 @@
+name: Anti-Bot
+version: '${project.version}'
+author: MonkeyMoon104
+main: com.example.plugin.antibot.ConnectionDelayPlugin
+api-version: '1.19'
